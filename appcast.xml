@@ -6,14 +6,14 @@
     <description>SeqLog updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.1.0</title>
-      <pubDate>Wed, 25 Mar 2026 07:54:43 +0000</pubDate>
-      <sparkle:version>2</sparkle:version>
-      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <title>Version 1.2.0</title>
+      <pubDate>Wed, 25 Mar 2026 11:11:41 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/SeqLog/SeqLog/releases/download/v1.1.0/SeqLog.dmg"
-                 sparkle:edSignature="f4oK+aCA+uv9N6MDwYT2Q6S1yPSQqhPFqoWfewkMc7tZFblgN1PBp18gAZ/o0XJrUdCf+yh28ivQCS3YKEzqBA=="
-                 length="5157727"
+      <enclosure url="https://github.com/SeqLog/SeqLog/releases/download/v1.2.0/SeqLog.dmg"
+                 sparkle:edSignature="OVy1M1RwAqcRdSftP2TUmHHZLJwgE9qQt6dOUUeGv2G2inu+Oj1kyX5CQ+nsf3L8PLd2OFP5Md33Mvu1pOyEAg=="
+                 length="5167136"
                  type="application/octet-stream"/>
     </item>
   </channel>
