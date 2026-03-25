@@ -7,13 +7,13 @@
     <language>en</language>
     <item>
       <title>Version 1.2.1</title>
-      <pubDate>Wed, 25 Mar 2026 15:04:09 +0000</pubDate>
-      <sparkle:version>1</sparkle:version>
+      <pubDate>Wed, 25 Mar 2026 15:09:13 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
       <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/SeqLog/SeqLog/releases/download/v1.2.1/SeqLog-x86_64.dmg"
-                 sparkle:edSignature="uhUyjJzfWH9BONTvKjGZCyaPj8NY6wfb6CP/aWw4saTJdUuXKiLS9ihPv8TW938ygSK/iqTtBi4Vqb1gknX8AA=="
-                 length="5496565"
+                 sparkle:edSignature="z/AgZEUy0idFmIjDDWU12I05brwmB0PIG6QDTFYjdks61N9o0Ui8hYVsTh/SQWf/8nR4Vb54VIP5h4NSkv5fBw=="
+                 length="5496517"
                  type="application/octet-stream"/>
     </item>
   </channel>
