@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>SeqLog</title>
-    <link>https://raw.githubusercontent.com/SeqLog/SeqLog/main/appcast.xml</link>
+    <link>https://seqlog.com/appcast.xml</link>
     <description>SeqLog updates</description>
     <language>en</language>
     <item>
@@ -11,7 +11,7 @@
       <sparkle:version>25</sparkle:version>
       <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/SeqLog/SeqLog/releases/download/v1.10.0/SeqLog.dmg"
+      <enclosure url="https://seqlog.com/dl/v1.10.0/SeqLog.dmg"
                  sparkle:edSignature="QVPWrDVWGp7VvgiQrDbtY25In/1eWDO9TdxyMoI0c/i2KozwegWL65wZsqL00tZ3cmHD2oDY7hkpAuu1AcsJDA=="
                  length="6391735"
                  type="application/octet-stream"/>
